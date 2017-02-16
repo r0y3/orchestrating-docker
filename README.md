@@ -1,12 +1,5 @@
-Dockerizing Flask With Compose
-==============================
-
-Featuring:
-
-- Docker v1.9.0
-- Docker Compose v1.5.0
-
-I'm using Ubuntu and I don't need docker-machine.
+Dockerizing Flask With Compose on Ubuntu 16.04 LTS
+==================================================
 
 Getting Started
 ---------------
